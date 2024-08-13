@@ -22,7 +22,7 @@ Full-Stack Web Development & UI/UX Design in collaboration has a proven record o
 
 ### 🔌 Connect
 
--   [Phone](tel:+254111969379)
+-   +254 111 969 379
 -   [Whatsapp](https://wa.link/tvbvt1)
 -   [Telegram](http://t.me/scyoxe)
 -   [Email](mailto:scyoxe@gmail.com)
