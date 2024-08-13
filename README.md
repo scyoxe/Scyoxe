@@ -12,7 +12,7 @@ Full-Stack Web Development & UI/UX Design in collaboration has a proven record o
 ### Technologies
 
 | UI/UX                                                           | Front-End                                     | Preprocessors  | Back-End                | Frameworks              | Databases |
-| --------------------------------------------------------------- | --------------------------------------------- | -------------- | ----------------------- | ----------------------- | --------- |
+| :-------------------------------------------------------------- | :-------------------------------------------- | :------------- | :---------------------- | :---------------------- | :-------- |
 | Figma <br> Adobe XD <br> Adobe Illustrator <br> Adobe Photoshop | HTML <br> CSS <br> JavaScript <br> Typescript | SASS <br> SCSS | Node JS <br> Express JS | Next.js <br> Express.js | Postgres  |
 
 ### Interests
@@ -22,4 +22,7 @@ Full-Stack Web Development & UI/UX Design in collaboration has a proven record o
 
 ### 🔌 Connect
 
+-   [Phone](tel:+254111969379)
 -   [Whatsapp](https://wa.link/tvbvt1)
+-   [Telegram](http://t.me/scyoxe)
+-   [Email](mailto:scyoxe@gmail.com)
