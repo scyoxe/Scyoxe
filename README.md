@@ -11,9 +11,9 @@ Full-Stack Web Development & UI/UX Design in collaboration has a proven record o
 
 ### Technologies
 
-| UI/UX                                                           | Front-End                                     | Preprocessors  | Back-End                | Frameworks              | Databases |
-| :-------------------------------------------------------------- | :-------------------------------------------- | :------------- | :---------------------- | :---------------------- | :-------- |
-| Figma <br> Adobe XD <br> Adobe Illustrator <br> Adobe Photoshop | HTML <br> CSS <br> JavaScript <br> Typescript | SASS <br> SCSS | Node JS <br> Express JS | Next.js <br> Express.js | Postgres  |
+| UI/UX                                                           | Front-End                                     | Preprocessors  | Back-End            | Frameworks                                        | Databases |
+| :-------------------------------------------------------------- | :-------------------------------------------- | :------------- | :------------------ | :------------------------------------------------ | :-------- |
+| Figma <br> Adobe XD <br> Adobe Illustrator <br> Adobe Photoshop | HTML <br> CSS <br> JavaScript <br> Typescript | SASS <br> SCSS | Node JS <br> Python | Next.js <br> Express.js <br> Tailwind <br> Jquery | Postgres  |
 
 ### Interests
 
